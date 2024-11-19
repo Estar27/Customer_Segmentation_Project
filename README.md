@@ -68,18 +68,12 @@ In the Pizza Sales Analysis project, the following steps were followed for data 
 
 This process ensured that the data was properly structured and clean for further analysis in Power BI.
 
-## Exploratory Data Analysis  
-The Exploratory Data Analysis involved using SQL to explore the pizza sales dataset to answer key questions, including:  
-1. **Total Revenue**  
-2. **Average Order Value**  
-3. **Total Pizzas Sold**  
-4. **Total Orders**  
-5. **Average Pizza Per Order**  
-6. **Daily Trend of Total Orders**  
-7. **Monthly Trend of Total Orders**  
-8. **Percentage of Sales by Pizza Category**  
-9. **Top 5 Pizzas by Revenue by order, quantity and revenue**
-10. **Bottom 5 Pizzas by order, quantity and revenue**
+## RFM Analysis:
+Performed RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchasing behaviors.
+- **Recency**: Used the MAX function to obtain the last invoice date for each customer and calculated recency by subtracting each customer's invoice date from this maximum date. This measures how recently customers made their last purchase.
+- **Frequency**: Employed the COUNT function on the invoice dates to determine how frequently customers purchase from the company, providing insights into customer loyalty.
+- **Monetary Value**: Applied the SUM function on the calculated profit column to derive the total spending of each customer, allowing evaluation of overall value to the business.
+This streamlined dataset, focused on key RFM metrics, enhances the analysis process and improves the effectiveness of customer segmentation into clusters
 [Download the Word Document](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/PIZZA%20SQL%20RESULTS%20AND%20QUERY.docx)
 
 These analyses provided valuable insights into sales performance and customer purchasing behavior.
