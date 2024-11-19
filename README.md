@@ -75,6 +75,26 @@ Conducted exploratory data analysis (EDA) on the RFM dataset to uncover insights
   - Implementation: Plotted Recency on one axis, Frequency on another, and Monetary Value on the third, allowing for an in-depth exploration of how these dimensions interact.
 
 
+## K-means Clustering Analysis:
+Implemented K-means clustering to segment customers based on their RFM metrics, facilitating targeted marketing strategies and personalized customer engagement.
+- **Optimal Cluster Determination**: Used the Elbow Method and Silhouette Score to identify the optimal number of clusters for the dataset. Plotted both the Elbow Curve and Silhouette Scores to visually assess cluster compactness and separation.
+    - The Elbow Method involved graphing the sum of squared distances between data points and their corresponding cluster centroids, looking for the “elbow” point where adding more clusters yields diminishing returns.
+    - The Silhouette Score assessed the quality of clustering by measuring how similar an object is to its own cluster compared to other clusters.
+The analysis revealed the most appropriate number of clusters to use for K-means, ensuring meaningful segmentation of customers.
+- **K-means Clustering**:
+Applied the `kmeans.fit_predict()` method on the RFM dataset to assign cluster labels to each customer. Then, Appended the cluster labels to the RFM dataset, indicating which cluster each customer belongs to, thus enabling easy identification of customer segments.
+- **Visualization**: Created a 3D scatter plot to visualize the distribution of customers among the identified clusters. Used color coding based on cluster assignments to facilitate pattern recognition and better understand customer distribution across different segments.
+- **Cluster Analysis**: Generated three violin plots to further analyze the attributes of each cluster based on Recency, Frequency, and Monetary Value. The violin plots illustrated the distribution of RFM metrics within each cluster, revealing key characteristics of customer segments.
+- **Cluster Labeling**:
+ Assigned descriptive labels to each cluster based on insights from the violin plots:
+  - **Cluster 0**: Premium 
+  - **Cluster 1**: Casual 
+  - **Cluster 2**: Dormant 
+  - **Cluster 3**: Active
+Each label reflected the purchasing behaviors and attributes visible in the corresponding metrics.
+- **Customer Distribution Analysis**: Created a bar plot to display the total number of customers in each cluster, showcasing their average Recency, Frequency, and Monetary Value. This visualization provided a clear overview of the customer distribution across segments, allowing us to understand customer profiles and segment sizes at a glance.
+
+
 ## Visualization  
 In this project, several visualizations were created to effectively communicate the insights from the pizza sales data:  
 - **Bar Chart**: Displays the top 5 and bottom 5 pizzas based on order quantity and revenue.  
