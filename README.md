@@ -65,6 +65,16 @@ Performed RFM (Recency, Frequency, Monetary) analysis to segment customers based
 This streamlined dataset, focused on key RFM metrics, enhances the analysis process and improves the effectiveness of customer segmentation into clusters
 [Download the Word Document](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/PIZZA%20SQL%20RESULTS%20AND%20QUERY.docx)
 
+## EDA on RFM Dataset:
+Conducted exploratory data analysis (EDA) on the RFM dataset to uncover insights into customer behaviors, identify data quality issues, and prepare the dataset for further analysis or modeling.
+- **Outlier Detection**: Employed histograms and subplot visualizations to analyze the distribution of each RFM metric.
+  - Implementation: Created histograms for each metric to visualize the frequency distribution and identify any extreme values that deviate significantly from the norm. Used subplots to compare the distributions side by side, facilitating a comprehensive examination of potential outliers.
+- **Descriptive Analysis**: Utilized the .describe() function from the Pandas library on the RFM dataset to compute summary statistics.
+  - Implementation: Generated key metrics including count, mean, standard deviation, minimum, maximum, and quartiles for each RFM variable, Evaluated the central tendency (mean and median) to understand typical customer behaviors and the spread (standard deviation and interquartile range) to assess variability within the dataset. This analysis provided clarity on the overall customer base, revealing patterns such as the average frequency of purchases and typical monetary expenditure, which informed subsequent segmentation strategies.
+- **Visualization**: Created a 3D scatter plot to visualize the relationships and distributions among the RFM metrics.
+  - Implementation: Plotted Recency on one axis, Frequency on another, and Monetary Value on the third, allowing for an in-depth exploration of how these dimensions interact.
+
+
 ## Visualization  
 In this project, several visualizations were created to effectively communicate the insights from the pizza sales data:  
 - **Bar Chart**: Displays the top 5 and bottom 5 pizzas based on order quantity and revenue.  
