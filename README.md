@@ -5,9 +5,9 @@
 - [Data Set](#dataset)
 - [Tools and Techniques](#tools-and-techniques)
 - [Data Extraction, Cleaning/ Modelling](#data-extraction-cleaning-modelling)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [RFM Analysis](#rfm-analysis)
-- [K-Means Clustering](#kmeans-clustering)
+- [Exploratory Data Analysis](#eda-on-rfm-dataset)
+- [K-Means Clustering](#k-means-clustering-analysis)
 - [Visualization](#visualization)
 - [Insights](#recommendations)
 - [Marketing Recommendations](#marketing-recommendateions)
@@ -46,7 +46,7 @@ Used for data visualization and reporting. Power BI was instrumental in creating
 Employed to create a presentation of findings, summarizing insights and providing marketing recommendations based on the analysis. This facilitated effective communication of results to stakeholders. [Download here](https://microsoft.com)
 
 
-## Data Extraction/ Cleaning/ Modeling
+## Data Extraction/ Cleaning/ Modelling
 In the Customer Segmentation project, the following steps were followed for data extraction and cleaning:
 - **Extraction**: Used Python to extract each worksheet from the Excel workbook separately.
 - **Data Type Conversion**: Identified and corrected data type issues for various columns to ensure accurate processing and analysis.
