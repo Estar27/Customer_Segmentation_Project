@@ -46,27 +46,16 @@ Used for data visualization and reporting. Power BI was instrumental in creating
 Employed to create a presentation of findings, summarizing insights and providing marketing recommendations based on the analysis. This facilitated effective communication of results to stakeholders. [Download here](https://microsoft.com)
 
 
-## Data Extraction/ Cleaning/ Modelling  
-In the Pizza Sales Analysis project, the following steps were followed for data extraction and cleaning:  
-1. **Extraction**:  
-   - Used python to extract each worksheets in the workbook.
-2. **Data Type Adjustments**:  
-   - Encountered issues with the data type of one particular column that prevented successful extraction.
-![DataTypeError](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20140832.png?raw=true) 
-   - Changed the data type of the problematic column to a string to facilitate successful import.
-![DataTypechange](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-10-30%20130422.png?raw=true)
-3. **Creating a New Column**:  
-   - Created a new column to temporarily hold the values from the old column.  
-4. **Data Transfer**:  
-   - Transferred all data from the old column to the newly created column.  
-5. **Dropping the Old Column**:  
-   - Removed the old column from the dataset since it was no longer needed.  
-6. **Final Data Type Conversion**:  
-   - Converted the data type of the new column to a date format.  
-   - Renamed the new column to match the original name of the old column.
+## Data Extraction/ Cleaning/ Modeling
+In the Customer Segmentation project, the following steps were followed for data extraction and cleaning:
+- **Extraction**: Used Python to extract each worksheet from the Excel workbook separately.
+- **Data Type Conversion**: Identified and corrected data type issues for various columns to ensure accurate processing and analysis.
+- **New Column Creation**: Created new columns for age, age group, and profit to assist with further analysis.
+- **Null and Duplicate Check**: Checked for null values and duplicates across the datasets, correcting any issues found to ensure data integrity.
+- **Data Standardization**: Standardized entries by inspecting value counts for each column using the .value_counts() function. Rectified discrepancies in representations, such as correcting the state column where "vic" and "victoria" were treated as different entries even though they refer to the same state.
+- **Final Data Validation**: Conducted a thorough review of the cleaned dataset to ensure all transformations were correctly applied and the data was ready for analysis.
 ![FixError](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-10-30%20134044.png?raw=true)
-
-This process ensured that the data was properly structured and clean for further analysis in Power BI.
+This process ensured that the data was properly structured and clean for further analysis.
 
 ## RFM Analysis:
 Performed RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchasing behaviors.
@@ -75,8 +64,6 @@ Performed RFM (Recency, Frequency, Monetary) analysis to segment customers based
 - **Monetary Value**: Applied the SUM function on the calculated profit column to derive the total spending of each customer, allowing evaluation of overall value to the business.
 This streamlined dataset, focused on key RFM metrics, enhances the analysis process and improves the effectiveness of customer segmentation into clusters
 [Download the Word Document](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/PIZZA%20SQL%20RESULTS%20AND%20QUERY.docx)
-
-These analyses provided valuable insights into sales performance and customer purchasing behavior.
 
 ## Visualization  
 In this project, several visualizations were created to effectively communicate the insights from the pizza sales data:  
