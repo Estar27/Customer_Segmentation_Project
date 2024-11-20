@@ -105,6 +105,8 @@ Applied the `kmeans.fit_predict()` method on the RFM dataset to assign cluster l
   - **Cluster 3**: Active
 Each label reflected the purchasing behaviors and attributes visible in the corresponding metrics.
 - **Customer Distribution Analysis**: Created a bar plot to display the total number of customers in each cluster, showcasing their average Recency, Frequency, and Monetary Value. This visualization provided a clear overview of the customer distribution across segments, allowing us to understand customer profiles and segment sizes at a glance.
+![](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/code_avg_rfm.png?raw=true)
+![](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/avg_rfm.png?raw=true)
 
 
 ## Visualization  
