@@ -62,7 +62,7 @@ Performed RFM (Recency, Frequency, Monetary) analysis to segment customers based
 - **Frequency**: Employed the COUNT function on the invoice dates to determine how frequently customers purchase from the company, providing insights into customer loyalty.
 - **Monetary Value**: Applied the SUM function on the calculated profit column to derive the total spending of each customer, allowing evaluation of overall value to the business.
 This streamlined dataset, focused on key RFM metrics, enhances the analysis process and improves the effectiveness of customer segmentation into clusters
-[Download the Word Document](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/PIZZA%20SQL%20RESULTS%20AND%20QUERY.docx)
+![RFM](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/code_rfm.png?raw=true)
 
 ## EDA on RFM Dataset:
 Conducted exploratory data analysis (EDA) on the RFM dataset to uncover insights into customer behaviors, identify data quality issues, and prepare the dataset for further analysis or modeling.
