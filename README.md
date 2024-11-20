@@ -53,6 +53,7 @@ In the Customer Segmentation project, the following steps were followed for data
 - **New Column Creation**: Created new columns for age, age group, and profit to assist with further analysis.
 - **Null and Duplicate Check**: Checked for null values and duplicates across the datasets, correcting any issues found to ensure data integrity.
 - **Data Standardization**: Standardized entries by inspecting value counts for each column using the .value_counts() function. Rectified discrepancies in representations, such as correcting the state column where "vic" and "victoria" were treated as different entries even though they refer to the same state.
+![datastand](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/datastandastate.png?raw=true)
 - **Final Data Validation**: Conducted a thorough review of the cleaned dataset to ensure all transformations were correctly applied and the data was ready for analysis.
 This process ensured that the data was properly structured and clean for further analysis.
 
@@ -68,6 +69,8 @@ This streamlined dataset, focused on key RFM metrics, enhances the analysis proc
 Conducted exploratory data analysis (EDA) on the RFM dataset to uncover insights into customer behaviors, identify data quality issues, and prepare the dataset for further analysis or modeling.
 - **Outlier Detection**: Employed histograms and subplot visualizations to analyze the distribution of each RFM metric.
   - Implementation: Created histograms for each metric to visualize the frequency distribution and identify any extreme values that deviate significantly from the norm. Used subplots to compare the distributions side by side, facilitating a comprehensive examination of potential outliers.
+![outliers](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/Outliers1.png?raw=true)
+![outliers2](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/Outliers2.png?raw=true)
 - **Descriptive Analysis**: Utilized the .describe() function from the Pandas library on the RFM dataset to compute summary statistics.
   - Implementation: Generated key metrics including count, mean, standard deviation, minimum, maximum, and quartiles for each RFM variable, Evaluated the central tendency (mean and median) to understand typical customer behaviors and the spread (standard deviation and interquartile range) to assess variability within the dataset. This analysis provided clarity on the overall customer base, revealing patterns such as the average frequency of purchases and typical monetary expenditure, which informed subsequent segmentation strategies.
 - **Visualization**: Created a 3D scatter plot to visualize the relationships and distributions among the RFM metrics.
