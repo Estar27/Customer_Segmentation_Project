@@ -93,6 +93,10 @@ Applied the `kmeans.fit_predict()` method on the RFM dataset to assign cluster l
 ![CD](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/code_cluster.png?raw=true)
 ![CustomerSegment](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/Clusters_Of_Customers.png?raw=true)
 - **Cluster Analysis**: Generated three violin plots to further analyze the attributes of each cluster based on Recency, Frequency, and Monetary Value. The violin plots illustrated the distribution of RFM metrics within each cluster, revealing key characteristics of customer segments.
+![1](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/code_violin.png?raw=true)
+![2](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/violin_plot1.png?raw=true)
+![3](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/violin_plot2.png?raw=true)
+![4](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/violin_plot3.png?raw=true)
 - **Cluster Labeling**:
  Assigned descriptive labels to each cluster based on insights from the violin plots:
   - **Cluster 0**: Premium 
