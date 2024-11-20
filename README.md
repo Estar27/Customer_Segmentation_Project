@@ -89,6 +89,9 @@ The analysis revealed the most appropriate number of clusters to use for K-means
 - **K-means Clustering**:
 Applied the `kmeans.fit_predict()` method on the RFM dataset to assign cluster labels to each customer. Then, Appended the cluster labels to the RFM dataset, indicating which cluster each customer belongs to, thus enabling easy identification of customer segments.
 - **Visualization**: Created a 3D scatter plot to visualize the distribution of customers among the identified clusters. Used color coding based on cluster assignments to facilitate pattern recognition and better understand customer distribution across different segments.
+![KM](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/code_kmeans_fit.png?raw=true)
+![CD](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/code_cluster.png?raw=true)
+![CustomerSegment](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/Clusters_Of_Customers.png?raw=true)
 - **Cluster Analysis**: Generated three violin plots to further analyze the attributes of each cluster based on Recency, Frequency, and Monetary Value. The violin plots illustrated the distribution of RFM metrics within each cluster, revealing key characteristics of customer segments.
 - **Cluster Labeling**:
  Assigned descriptive labels to each cluster based on insights from the violin plots:
