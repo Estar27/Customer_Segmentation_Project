@@ -8,7 +8,7 @@
 - [RFM Analysis](#rfm-analysis)
 - [Exploratory Data Analysis](#eda-on-rfm-dataset)
 - [K-Means Clustering](#k-means-clustering-analysis)
-- [Visualization](#visualization)
+- [PowerBI Visualization](#powerbi-visualization)
 - [Insights](#recommendations)
 - [Marketing Recommendations](#marketing-recommendateions)
 - [Limitations](#limitations)
@@ -109,7 +109,7 @@ Each label reflected the purchasing behaviors and attributes visible in the corr
 ![](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/avg_rfm.png?raw=true)
 
 
-## Visualization  
+## PowerBi Visualization  
 In this project, several visualizations were created to effectively communicate the insights from the pizza sales data:  
 - **Bar Chart**: Displays the top 5 and bottom 5 pizzas based on order quantity and revenue.  
 - **Line Graph**: Illustrates the monthly trend of total orders.  
