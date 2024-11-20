@@ -73,6 +73,7 @@ Conducted exploratory data analysis (EDA) on the RFM dataset to uncover insights
 ![outliers2](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/Outliers2.png?raw=true)
 - **Descriptive Analysis**: Utilized the .describe() function from the Pandas library on the RFM dataset to compute summary statistics.
   - Implementation: Generated key metrics including count, mean, standard deviation, minimum, maximum, and quartiles for each RFM variable, Evaluated the central tendency (mean and median) to understand typical customer behaviors and the spread (standard deviation and interquartile range) to assess variability within the dataset. This analysis provided clarity on the overall customer base, revealing patterns such as the average frequency of purchases and typical monetary expenditure, which informed subsequent segmentation strategies.
+![describe](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/edaonrfm.png?raw=true)
 - **Visualization**: Created a 3D scatter plot to visualize the relationships and distributions among the RFM metrics.
   - Implementation: Plotted Recency on one axis, Frequency on another, and Monetary Value on the third, allowing for an in-depth exploration of how these dimensions interact.
 
