@@ -108,9 +108,8 @@ Each label reflected the purchasing behaviors and attributes visible in the corr
 ![](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/code_avg_rfm.png?raw=true)
 ![](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/avg_rfm.png?raw=true)
 
-
-## PowerBi Visualization  
-In this project, several visualizations were created to effectively communicate the insights from the pizza sales data:  
+## PowerBI Visualization
+In this project, the dataset containing the RFM (Recency, Frequency, Monetary) values and cluster labels was imported, alongside with the primary dataset called raw_data.xlsx. Data modeling was performed to establish relationships between these datasets to facilitate effective visualization. The visuals used in this project are as follows:
 - **Bar Chart**: Displays the top 5 and bottom 5 pizzas based on order quantity and revenue.  
 - **Line Graph**: Illustrates the monthly trend of total orders.  
 - **Stacked Column Chart**: Depicts the daily trend of total orders.  
