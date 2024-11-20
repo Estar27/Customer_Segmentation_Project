@@ -17,7 +17,7 @@
 
 ## Project Overview
 The Customer Segmentation project aims to identify key customer groups and predict future purchasing behaviors for a prominent automobile manufacturer that is experiencing a significant decline in sales among young professionals. This decline is largely attributed to a lack of personalized customer experiences and ineffective customer relationship management. By utilizing RFM (Recency, Frequency, Monetary) analysis to evaluate customer engagement and K-Means clustering for segmentation, this project is designed to help the company better understand its customer base. The analysis focuses on uncovering customer preferences, spending habits, and overall value, enabling the development of tailored marketing strategies. The insights derived from this project will empower stakeholders to make informed decisions regarding targeted promotions and customer outreach initiatives. Ultimately, this will address the decline in sales, improve engagement with the young professional segment, and enhance overall customer retention.
-[Download Power BI Report](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/PIZZA_SALES_REPORT.pbix)
+[Download Power BI Report](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/Customer_Segmentation_PB.pbix)
 
 ## Dataset
 ### Raw_data.xlsx
