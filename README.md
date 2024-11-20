@@ -83,7 +83,8 @@ Implemented K-means clustering to segment customers based on their RFM metrics, 
 - **Optimal Cluster Determination**: Used the Elbow Method and Silhouette Score to identify the optimal number of clusters for the dataset. Plotted both the Elbow Curve and Silhouette Scores to visually assess cluster compactness and separation.
     - The Elbow Method involved graphing the sum of squared distances between data points and their corresponding cluster centroids, looking for the “elbow” point where adding more clusters yields diminishing returns.
     - The Silhouette Score assessed the quality of clustering by measuring how similar an object is to its own cluster compared to other clusters.
-![SILELB](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/Outliers1.png?raw=true)
+![SILELB](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/Code_sil_Elb.png?raw=true)
+![CHART](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/Silhouette_Elbow.png?raw=true)
 The analysis revealed the most appropriate number of clusters to use for K-means, ensuring meaningful segmentation of customers.
 - **K-means Clustering**:
 Applied the `kmeans.fit_predict()` method on the RFM dataset to assign cluster labels to each customer. Then, Appended the cluster labels to the RFM dataset, indicating which cluster each customer belongs to, thus enabling easy identification of customer segments.
