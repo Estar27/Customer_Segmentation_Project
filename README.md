@@ -17,7 +17,7 @@
 
 ## Project Overview
 The Customer Segmentation project aims to identify key customer groups and predict future purchasing behaviors for a prominent automobile manufacturer that is experiencing a significant decline in sales among young professionals. This decline is largely attributed to a lack of personalized customer experiences and ineffective customer relationship management. By utilizing RFM (Recency, Frequency, Monetary) analysis to evaluate customer engagement and K-Means clustering for segmentation, this project is designed to help the company better understand its customer base. The analysis focuses on uncovering customer preferences, spending habits, and overall value, enabling the development of tailored marketing strategies. The insights derived from this project will empower stakeholders to make informed decisions regarding targeted promotions and customer outreach initiatives. Ultimately, this will address the decline in sales, improve engagement with the young professional segment, and enhance overall customer retention.
-
+![CustomerSegment](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/Clusters_Of_Customers.png?raw=true)
 
 ## Dataset
 ### Raw_data.xlsx
@@ -54,7 +54,6 @@ In the Customer Segmentation project, the following steps were followed for data
 - **Null and Duplicate Check**: Checked for null values and duplicates across the datasets, correcting any issues found to ensure data integrity.
 - **Data Standardization**: Standardized entries by inspecting value counts for each column using the .value_counts() function. Rectified discrepancies in representations, such as correcting the state column where "vic" and "victoria" were treated as different entries even though they refer to the same state.
 - **Final Data Validation**: Conducted a thorough review of the cleaned dataset to ensure all transformations were correctly applied and the data was ready for analysis.
-![FixError](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-10-30%20134044.png?raw=true)
 This process ensured that the data was properly structured and clean for further analysis.
 
 ## RFM Analysis:
