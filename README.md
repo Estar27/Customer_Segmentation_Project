@@ -154,24 +154,29 @@ From the Insights gotten from the the analysis and clustering the customers, the
   - *Consistent Engagement*: Maintain regular contact through newsletters and personalized updates.
   - *Tailored Recommendations*: Use their purchase history for personalized product suggestions.
   - *Exclusive Community*: Create an online forum for them to connect with each other and the brand.
-- **Dormant Customers** 
 
-## Recommendations  
-1. **Promote Top Sellers**:  
-   - Focus marketing efforts on high-performing pizzas, such as Classic Deluxe and Pepperoni. Offer special deals to boost sales.  
-2. **Revise Underperformers**:  
-   - Analyze and adjust recipes for low-selling pizzas, and consider promotions to increase awareness and sales.  
-3. **Seasonal Promotions**:  
-   - Introduce limited-time offerings during holidays or peak seasons, and monitor their performance for future adjustments.  
-4. **Diversify Menu Options**:  
-   - Expand the menu to include vegetarian, gluten-free, and vegan pizzas in response to consumer trends.  
-5. **Focus on High-Revenue Items**:  
-   - Highlight and promote high-revenue pizzas like Thai Chicken in advertising to maximize sales.  
-6. **Cross-Sell Opportunities**:  
-   - Implement strategies to suggest complementary sides and drinks during customer orders to increase average transaction value.  
-7. **Data-Driven Insights**:  
-   - Continuously analyze sales data to quickly adapt strategies based on customer behavior and market trends.  
-By adopting these strategies, the company can enhance its offerings, improve customer satisfaction, and drive growth.
+- **Dormant Customers**: The marketing strategies for these customers will involve several strategic actions to encourage these customers to engage with your brand more frequently and improving the recency overtime. Here are some specific strategies:
+  - *Targeted Outreach*: Send personalized emails or direct mail to acknowledge their previous engagement and express a desire to reconnect. Highlight what’s new or improved since their last interaction.
+  - *Incentivized Offers*: Provide special promotions, discounts, or limited-time offers to create urgency and encourage purchases.
+  - *Educational Content*: Share valuable content such as newsletters, blog posts, or instructional videos that address their needs and interests.
+  - *Feedback and Surveys*: Conduct surveys to understand their lack of engagement and gather insights to address potential barriers.
+  - *Loyalty Programs*: Introduce or highlight loyalty programs that reward purchases, emphasizing that even small purchases can accumulate points.
+  - *Retargeting Campaigns*: Use digital marketing strategies like retargeting ads to remind customers of products they viewed or similar items.
+  - *Social Media Engagement*: Leverage social media to share engaging content, promotions, and customer stories that resonate with them.
+  - *Community Building*: Create an online community or forum for customers to engage with your brand and each other, deepening their connection and encouraging return visits.
+
+- **Casual Customers**: To encourage repeat business and increase lifetime value among Casual Customers (low monetary value, low frequency, high recency), consider the following strategies:
+  - *Personalized Communication*: Customize communications based on previous interactions to make customers feel valued. Send personalized emails thanking them for past purchases and suggesting new products.
+  - *Educational Outreach*: Share how-to guides and industry insights relevant to their interests, Offer free sessions to educate customers on using your products effectively.
+  - *Reward Systems*: Introduce programs that reward even small purchases, emphasizing that every interaction counts, Provide perks like early access to products or member-only discounts.
+  - *Feedback Mechanism*: Gather feedback to understand customer experiences and preferences, Create platforms for customers to share feedback and feel involved.
+  - *Segmented Campaigns*: Tailor promotions based on their interests and past interactions, Use automated reminders for ongoing promotions or new arrivals.
+  - *Community Engagement*: Engage customers on social media by responding to comments and sharing user-generated content, Encourage customers to share their experiences, fostering community and social proof.
+  - *Customer Support and Assistance*: Follow up on past purchases with guidance and reminders of support resources and ensure support is available through chat, email, and phone.
+  - *Retention Strategies*: Send special offers to celebrate milestones, Maintain monthly or quarterly communications to keep your brand top of mind.
+By nurturing this segment, you can enhance their relationship with your brand, increase purchase frequency, and ultimately boost their value as loyal customers.
+
+- **Active Customers**:
 
 ## References
 
