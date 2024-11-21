@@ -10,7 +10,7 @@
 - [K-Means Clustering](#k-means-clustering-analysis)
 - [PowerBI Visualization](#powerbi-visualization)
 - [Insights](#insights)
-- [Marketing Recommendations](#marketing-recommendateions)
+- [Marketing Recommendations](#marketing-recommendations)
 - [Limitations](#limitations)
 - [References](#references)
 
@@ -153,8 +153,8 @@ From the Insights gotten from the the analysis and clustering the customers, the
   - *Product Tutorials*: Provide advanced tutorials or consultations for product usage.
   - *Consistent Engagement*: Maintain regular contact through newsletters and personalized updates.
   - *Tailored Recommendations*: Use their purchase history for personalized product suggestions.
-  - *Exclusive Community*: Create an online forum for them to connect with each other and the brand
-
+  - *Exclusive Community*: Create an online forum for them to connect with each other and the brand.
+- **Dormant Customers** 
 
 ## Recommendations  
 1. **Promote Top Sellers**:  
