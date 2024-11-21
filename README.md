@@ -9,7 +9,7 @@
 - [Exploratory Data Analysis](#eda-on-rfm-dataset)
 - [K-Means Clustering](#k-means-clustering-analysis)
 - [PowerBI Visualization](#powerbi-visualization)
-- [Insights](#recommendations)
+- [Insights](#insights)
 - [Marketing Recommendations](#marketing-recommendateions)
 - [Limitations](#limitations)
 - [References](#references)
@@ -126,48 +126,19 @@ In this project, the dataset containing the RFM (Recency, Frequency, Monetary) v
 These visualizations facilitate a better understanding of cluster's performance and customer preferences.
 
 
-## Results/ Findings  
+## Insights
+After a detailed analysis and clustering of the customer data, the following insights were obtained:
+- The company's customers can be grouped into four categories based on their purchasing behavior: **Premium, Casual, Dormant, and Active**.
+- The **Premium and Active** segments are the most loyal to the brand and contribute the majority of the total revenue for the company.
+- The **Premium** customers, while the best-performing group, represent only **16.1%** of the total customer base.
+- The **Dormant and Casual** segments exhibit the least loyalty to the brand and contribute a minority to the total revenue.
+- The** Dormant** group is the lowest-performing segment, making up **31.8%** of the total customer base, which negatively affects the company's sales performance.
+- **Active** customers constitute the largest percentage **37.3%** of the customer base, while **Casual** customers represent the smallest percentage **14.8%**.
+- The best-performing product line in terms of profit generated is **Standard**, while the top-performing product quality by total sales is **Medium**.
+- There has been a significant increase in profit trend, with **Quarter 4** generating the highest profit for the company at over **$2,700,000**, contributing to a total of $10,600,000 generated for the year.
+- The majority of customers have been with the company for **less than a year** and fall within the **Mass Customer** wealth segment.
+- Most customers reside in **New South Wales**.
 
-The findings from the analysis can be summarized as follows:  
-- **Fridays** and **Thursdays** has higher orders.
-- **July** and **May** recorded higher orders.
-- **Top 5 Pizzas by Order**:   
-  1. Classic Deluxe  
-  2. Hawaiian  
-  3. Pepperoni  
-  4. Barbecue Chicken  
-  5. Thai Chicken Pizza  
-- **Bottom 5 Pizzas by Order**:   
-  1. Chicken Pesto  
-  2. Spinach Supreme  
-  3. Calabrese  
-  4. Mediterranean  
-  5. Brie Carré Pizza  
-- **Top 5 Pizzas by Quantity**:   
-  1. Classic Deluxe  
-  2. Barbecue Chicken  
-  3. Thai Chicken  
-  4. California Chicken  
-  5. Spicy Italian Pizza  
-- **Bottom 5 Pizzas by Quantity**:   
-  1. Green Garden  
-  2. Spinach Pesto  
-  3. Spinach Supreme  
-  4. Mediterranean  
-  5. Brie Carré Pizza  
-- **Top 5 Pizzas by Revenue**:   
-  1. Thai Chicken  
-  2. Barbecue Chicken  
-  3. California Chicken  
-  4. Classic Deluxe  
-  5. Spicy Italian Pizza  
-- **Bottom 5 Pizzas by Revenue**:   
-  1. Spinach Pesto  
-  2. Mediterranean  
-  3. Spinach Supreme  
-  4. Green Garden  
-  5. Brie Carré Pizza  
-These results provide valuable insights into customer preferences and sales performance for the various pizza offerings.
 
 ## Limitations  
 - **Temporal Limitations**: While the data spans a year, it may not adequately capture seasonal trends or variations in consumer behavior across different months.    
