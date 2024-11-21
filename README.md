@@ -140,10 +140,21 @@ After a detailed analysis and clustering of the customer data, the following ins
 - Most customers reside in **New South Wales**.
 
 
-## Limitations  
-- **Temporal Limitations**: While the data spans a year, it may not adequately capture seasonal trends or variations in consumer behavior across different months.    
-- **Geographical Limitations**: The findings may not be applicable to other locations or markets outside the dataset.    
-- **Market Behavior Changes**: Shifts in consumer preferences over the years, influenced by trends, may not be fully reflected in the analysis.
+## Marketing Recommendations
+From the Insights gotten from the the analysis and clustering the customers, the following marketing strategies are recommended to help improve the ales performance for the company and build a good customer relationship management.
+- **Premium Customers**: Since these customers are your most loyal and best performing, the follwing strategies will help to retain them, turning them into advocates for your brand and further enhancing their loyalty:
+  - *Tailored Communication*: Send personalized emails that highlight their purchase history.
+  - *VIP Treatment*: Offer exclusive access to new products and consider assigning dedicated account managers.
+  - *Tiered Loyalty Rewards*: Enhance loyalty programs with exclusive rewards for high-value customers.
+  - *Direct Feedback*: Solicit insights through surveys or interviews to understand their experiences.
+  - *Proactive Support*: Follow up after purchases to provide relevant assistance.
+  - *Exclusive Events*: Host product launches and workshops specifically for them.
+  - *Behind-the-Scenes Access*: Offer sneak peeks of new products and initiatives.
+  - *Product Tutorials*: Provide advanced tutorials or consultations for product usage.
+  - *Consistent Engagement*: Maintain regular contact through newsletters and personalized updates.
+  - *Tailored Recommendations*: Use their purchase history for personalized product suggestions.
+  - *Exclusive Community*: Create an online forum for them to connect with each other and the brand
+
 
 ## Recommendations  
 1. **Promote Top Sellers**:  
