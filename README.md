@@ -194,9 +194,18 @@ Implementing these strategies can help re-engage this customer segment, driving 
 
 -   **Monitor and Analyze Customer Data**: Regularly analyze customer data to refine segments and monitor changes in purchasing behavior, allowing for agile marketing responses to trends. Create detailed customer journey maps for each segment to identify touchpoints and optimize engagement strategies tailored to each group.
 
-## References
 
-1. [Youtube](https://www.youtube.com/watch?v=V-s8c6jMRN0&list=PPSV)
-2. [Udemy](https://www.udemy.com/course/complete-microsoft-sql-server-beginner-expert/learn/lecture/22126612#content)
+## Limitations
+One significant limitation encountered during this project was the unavailability of **customer IDs** for new customers, alongside the absence of transaction details. This restriction posed substantial challenges in effectively clustering new customers and comparing their purchasing behavior with that of existing customers.
+  - Without unique customer IDs, it was impossible to track individual customer interactions, preferences, or histories accurately. This limitation hindered the ability to create meaningful segments based on behavior or purchasing patterns.
+  - The absence of transaction data for new customers meant that an essential part of the analysis clustering based on purchasing behavior could not be completed. This prevented a comprehensive understanding of how new customers fit into broader segments and how they might differ from existing customers.
+  - The inability to compare new customers with older customer segments restricted insights into potential shifts in purchasing behavior, brand loyalty, or revenue contribution. Understanding these dynamics is crucial for developing targeted marketing strategies.
+  - Due to the limited data, the final marketing recommendations could not include tailored strategies for new customers, which are essential for enhancing customer acquisition and retention efforts.
+Overall, these limitations created gaps in the analysis, making it challenging to derive detailed insights into customer behavior and limiting the effectiveness of the marketing strategies proposed. Addressing these data availability issues in future analyses will be crucial for enhancing the depth and accuracy of customer segmentation and insights.
+
+
+
+## References
+ [Youtube](https://www.youtube.com/watch?v=afPJeQuVeuY&list=PPSV)
 
 💻 🖱️ 👁️
