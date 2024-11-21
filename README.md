@@ -120,10 +120,10 @@ In this project, the dataset containing the RFM (Recency, Frequency, Monetary) v
 - **Ribbon Chart**: Shows the number of customers in each cluster from different states.
 - **100% Stacked Column Chart**: Depicts the different age categories represented in each cluster.
 - **Treemap**: Displays total sales made by customers in different wealth segments.
-![Visualization](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20143103.png?raw=true)
-
-![Visualization2](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20143145.png?raw=true)
-These visualizations facilitate a better understanding of sales performance and customer preferences.
+![Visualization](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/pb_1.png?raw=true)
+![Visualization2](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/pb_2.png?raw=true)
+![Visualization3](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/pb_3.png?raw=true)
+These visualizations facilitate a better understanding of cluster's performance and customer preferences.
 
 
 ## Results/ Findings  
