@@ -109,12 +109,17 @@ Each label reflected the purchasing behaviors and attributes visible in the corr
 ![](https://github.com/Estar27/Customer_Segmentation_Project/blob/main/avg_rfm.png?raw=true)
 
 ## PowerBI Visualization
-In this project, the dataset containing the RFM (Recency, Frequency, Monetary) values and cluster labels was imported, alongside with the primary dataset called raw_data.xlsx. Data modeling was performed to establish relationships between these datasets to facilitate effective visualization. The visuals used in this project are as follows:
-- **Bar Chart**: Displays the top 5 and bottom 5 pizzas based on order quantity and revenue.  
-- **Line Graph**: Illustrates the monthly trend of total orders.  
-- **Stacked Column Chart**: Depicts the daily trend of total orders.  
-- **Doughnut Chart**: Represents the percentage of sales by pizza category and size.
+In this project, the dataset containing the RFM (Recency, Frequency, Monetary) values and cluster labels was imported, along with the primary dataset called raw_data.xlsx. Data modeling was performed to establish relationships between these datasets to facilitate effective visualization. The visuals used in this project are as follows:
 
+- **Cards**: Displays Key Performance Indicators, such as total profit, total number of customers, and total sales.
+- **Line Graph**: Illustrates the quarterly trend of total profit.
+- **Line and Stacked Column Chart**: Depicts the average recency, frequency, and monetary value for each cluster.
+- **Pie Chart/Doughnut Chart**: Represents the distribution of total customers by gender and the percentage of sales by different product quality.
+- **Stacked Column Chart**: Illustrates customer tenure, total transactions by clusters, and profit by product line.
+- **Funnel Chart**: Displays the average sales made by each cluster.
+- **Ribbon Chart**: Shows the number of customers in each cluster from different states.
+- **100% Stacked Column Chart**: Depicts the different age categories represented in each cluster.
+- **Treemap**: Displays total sales made by customers in different wealth segments.
 ![Visualization](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20143103.png?raw=true)
 
 ![Visualization2](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20143145.png?raw=true)
